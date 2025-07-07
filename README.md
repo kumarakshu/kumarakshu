@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am Akash Kumar, a passionate Full-Stack Developer and AI/ML enthusiast based in Patna, India. I love building impactful tech solutions and learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarakshu&label=Profile%20views&color=0e75b6&style=flat" alt="kumarakshu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarakshu" alt="kumarakshu" /></a> </p>
-
 - 🔭 I’m currently working on Hybrid Integrated Internship Program at GUVI (HCL Group) in collaboration with IIT Patna.
 
 - 👯 I’m looking to collaborate on open-source projects related to AI, Web Dev, or Sustainability.
