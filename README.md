@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarakshu" alt="kumarakshu" /></a> </p>
 
-- 🔭 I’m currently working on Hybrid Integrated Internship Program at GUVI (HCL Group) in collaboration with IIT Patna. **SignSpeak (real-time sign language translator)**
+- 🔭 I’m currently working on Hybrid Integrated Internship Program at GUVI (HCL Group) in collaboration with IIT Patna.
 
-- 👯 I’m looking to collaborate on **EcoTrack (AI carbon tracker)**
+- 👯 I’m looking to collaborate on open-source projects related to AI, Web Dev, or Sustainability.
 
 - 💬 Ask me about **Python, Machine Learning, MERN Stack, or Hackathons.**
 
